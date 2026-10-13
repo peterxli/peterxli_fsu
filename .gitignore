@@ -1,0 +1,10 @@
+# EA FC web app bundle —— EA 的专有代码，不随本仓库分发。
+# 需要时用一条命令重新拉取（约 10MB）：
+#   bash tools/fetch-webapp.sh
+reference/webapp/
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
